@@ -21,7 +21,7 @@ This challenge allows me to improve my html and css skills, so I thank the front
 
 ### Screenshot
 
-![](./images/screenshot-solution.png)
+![](./assets/images/screenshot-solution.png)
 
 ### Links
 
